@@ -1,0 +1,88 @@
+[
+    {
+        "1": "why you think\nyou are hero ?",
+        "2": "what is your\nelement ?",
+        "3": "what pet\ndo you have ?",
+        "4": "how many enemies\ncan you beat ?",
+        "5": "how many girls\ndo you have ?",
+        "6": "how many push up\nyou can do ?",
+        "7": "5 x 1 + 1 = ?",
+        "8": "what kind of person\ndo you want to be?",
+        "9": "what is your goal ?",
+        "10": "do you believe in\nreincarnation?"
+    },
+    {
+        "1": {
+            "a": "i'm strong",
+            "b": "i just feel like that",
+            "c": "i dont know",
+            "d": "i have good posture"
+        },
+        "2": {
+            "a": "i dont have",
+            "b": "water",
+            "c": "fire",
+            "d": "earth"
+        },
+        "3": {
+            "a": "wolf",
+            "b": "cat",
+            "c": "dog",
+            "d": "eagle"
+        },
+        "4": {
+            "a": "10",
+            "b": "1000",
+            "c": "10000",
+            "d": "1"
+        },
+        "5": {
+            "a": "6",
+            "b": "9",
+            "c": "0",
+            "d": "100"
+        },
+        "6": {
+            "a": "999",
+            "b": "43",
+            "c": "78",
+            "d": "100"
+        },
+        "7": {
+            "a": "6",
+            "b": "2",
+            "c": "3",
+            "d": "1"
+        },
+        "8": {
+            "a": "hero",
+            "b": "swordsman",
+            "c": "teacher",
+            "d": "doctor"
+        },
+        "9": {
+            "a": "power",
+            "b": "revenge",
+            "c": "money",
+            "d": "rule the world"
+        },
+        "10": {
+            "a": "no",
+            "b": "yes",
+            "c": "i dont know",
+            "d": "i dont care"
+        }
+    },
+    {
+        "1": "i dont know",
+        "2": "i dont have",
+        "3": "eagle",
+        "4": "10000",
+        "5": "0",
+        "6": "999",
+        "7": "6",
+        "8": "swordsman",
+        "9": "revenge",
+        "10": "i dont care"
+    }
+]

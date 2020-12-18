@@ -1,0 +1,88 @@
+[
+    {
+        "1": "why you think\nyou are hero ?",
+        "2": "what is your\nelement ?",
+        "3": "what pet\ndo you have ?",
+        "4": "how many enemies\ncan you beat ?",
+        "5": "how many books\ndo you have ?",
+        "6": "how much\nyour study time/day ?",
+        "7": "(5x5)+5x3+2?",
+        "8": "what kind of person\ndo you want to be?",
+        "9": "what is your goal ?",
+        "10": "do you believe in\nreincarnation?"
+    },
+    {
+        "1": {
+            "a": "i'm smart",
+            "b": "i just feel like that",
+            "c": "i dont know",
+            "d": "i dont have muscle"
+        },
+        "2": {
+            "a": "i dont have",
+            "b": "water",
+            "c": "fire",
+            "d": "earth"
+        },
+        "3": {
+            "a": "wolf",
+            "b": "cat",
+            "c": "dog",
+            "d": "eagle"
+        },
+        "4": {
+            "a": "10",
+            "b": "1000",
+            "c": "10000",
+            "d": "1"
+        },
+        "5": {
+            "a": "a lot",
+            "b": "9",
+            "c": "34",
+            "d": "100"
+        },
+        "6": {
+            "a": "1 hours",
+            "b": "4 hours",
+            "c": "8 hours",
+            "d": "3 hours"
+        },
+        "7": {
+            "a": "6",
+            "b": "2",
+            "c": "8",
+            "d": "1"
+        },
+        "8": {
+            "a": "hero",
+            "b": "swordsman",
+            "c": "teacher",
+            "d": "doctor"
+        },
+        "9": {
+            "a": "knowledge",
+            "b": "revenge",
+            "c": "money",
+            "d": "rule the world"
+        },
+        "10": {
+            "a": "no",
+            "b": "yes",
+            "c": "i dont know",
+            "d": "i dont care"
+        }
+    },
+    {
+        "1": "i dont know",
+        "2": "water",
+        "3": "cat",
+        "4": "10000",
+        "5": "a lot",
+        "6": "8 hours",
+        "7": "8",
+        "8": "teacher",
+        "9": "knowledge",
+        "10": "yes"
+    }
+]
